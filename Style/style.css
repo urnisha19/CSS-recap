@@ -1,0 +1,24 @@
+/* giving style in the whole document */
+*{
+    background-color: bisque;
+}
+/* giving in tags*/
+body{
+    margin: 2%;
+}
+h3{
+    color:green ;
+}
+/* giving same style in multiple elements */
+input,button{
+    background-color:white;
+    height: 30px;
+}
+/* applying style in a class */
+.skill-list{
+    color: navy;
+}
+/*applying style in an id*/
+#education{
+    border-left: 1px solid white;
+}
